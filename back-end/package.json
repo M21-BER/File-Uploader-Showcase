@@ -1,7 +1,7 @@
 {
   "name": "fileuploader",
   "version": "1.0.0",
-  "description": "file uploader for conDigital test",
+  "description": "file uploader",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
